@@ -1,5 +1,6 @@
 #include<iostream>
-Using namespace std
-Int main{
-Cout>>"hello github!! /n";
+Using namespace std;
+Int main()
+{
+Cout<<"hello github!! /n";
 }
